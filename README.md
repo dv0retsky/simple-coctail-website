@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <img alt="readme" src="./Images/readme-img.png" />
+  <img alt="readme" src="./images/readme-img.png" />
 </div>
 
 <br/>
