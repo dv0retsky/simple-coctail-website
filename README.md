@@ -75,4 +75,6 @@ index.html
 - css/style.css – core styles and adaptive layout
 - js/main.js – logic for sliders and accordion
 
+---
+
 <div align="center"> 🍹 Made with ❤️ by <b>dv0retsky</b> </div>
